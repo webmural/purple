@@ -1,3 +1,3 @@
-## [purple forumlæ](https://webmural.com/purple)
+## [purple cyphær](https://webmural.com/purple)
 
-[hyper](index.html) [purple](purple.css) [plasma](plasma.css)
+[`hyper`](index.html) [`purple`](purple.css) [`plasma`](plasma.css)
