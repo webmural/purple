@@ -1,5 +1,3 @@
-# [formula](index.html)
+## [purple forumlæ](https://webmural.com/purple)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+[hyper](index.html) [purple](purple.css) [plasma](plasma.css)
